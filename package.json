@@ -1,0 +1,14 @@
+{
+  "name": "finnegan32440",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "jetsadabet Pantip เว็บไซต์ที่มีความน่าเชื่อถือ [Play168] ⭐ jetsadabet เว็บเดิมพันออนไลน์ แทงหวย แทงบอล เล่นได้ครบที่เดียว",
+  "keywords": [
+    "jetsadabet Pantip เว็บไซต์ที่มีความน่าเชื่อถือ [Play168] ⭐ jetsadabet เว็บเดิมพันออนไลน์ แทงหวย แทงบอล เล่นได้ครบที่เดียว"
+  ],
+  "repository": "https://github.com/yorkinyellow/finnegan32440",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
